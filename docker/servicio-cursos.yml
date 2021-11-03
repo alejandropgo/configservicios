@@ -15,6 +15,5 @@ eureka:
       defalultZone: http://172.16.10.56:8761/eureka
   instance:
     instance-id: instancia1
-    hostname: 172.16.10.56
 server:
   port: 8500
